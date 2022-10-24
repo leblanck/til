@@ -11,17 +11,16 @@ _0 TILs and counting..._
 
 ### Categories
 
+* [GitHub](#github)
 * [VSCode](#vscode)
 
 ---
 
-### VSCode
+### GitHub
 
-- [Add The VSCode CLI To Your Path](vscode/add-the-vscode-cli-to-your-path.md)
-- [Advance Through Search Results](vscode/advance-through-search-results.md)
-- [Enable Breadcrumbs For Version 1.26 Release](vscode/enable-breadcrumbs-for-version-126-release.md)
-- [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
-- [Toggle Between Terminals](vscode/toggle-between-terminals.md)
+- [Add a License to Existing Repo on GitHub](github/add-license.md)
+
+### VSCode
 
 
 ## Other TIL Collections
