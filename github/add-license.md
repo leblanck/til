@@ -6,5 +6,5 @@ I accidently omitted a license from this repo when I first created it. To add on
 2. Name it LICENSE or LICENSE.md and a License Template will automatically appear
 3. Select a Template, Review the PR, Merge. Done!
 
-![adding a new license file](https://imgur.com/a/6lUwWrs)
+![adding a new license file](https://i.imgur.com/La3Jt52.png)
 
