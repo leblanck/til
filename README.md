@@ -11,13 +11,16 @@ _01 TILs and counting..._
 
 ### Categories
 
+* [Docker](#docker)
 * [GitHub](#github)
 * [VSCode](#vscode)
 
 ---
 
-### GitHub
+### Docker
+- [Inspecting a Container Image Locally](docker/inspect-image-locally.md)
 
+### GitHub
 - [Add a License to Existing Repo on GitHub](github/add-license.md)
 
 ### VSCode
