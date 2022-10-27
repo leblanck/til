@@ -13,7 +13,7 @@ _03 TILs and counting..._
 
 * [Docker](#docker)
 * [GitHub](#github)
-* [VSCode](#vscode)
+* [Linux](#linux)
 
 ---
 
@@ -24,7 +24,8 @@ _03 TILs and counting..._
 ### GitHub
 - [Add a License to Existing Repo on GitHub](github/add-license.md)
 
-### VSCode
+### Linux
+- [Edit DNS When Managed by resolvconf](linux/edit-DNS-resolvconf.md)
 
 
 ## Other TIL Collections
