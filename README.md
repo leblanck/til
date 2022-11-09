@@ -13,8 +13,9 @@ _06 TILs and counting..._
 
 * [Docker](#docker)
 * [GitHub](#github)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
-* [Kubernetes](#kuberbetes)
+
 ---
 
 ### Docker
