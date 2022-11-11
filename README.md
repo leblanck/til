@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_06 TILs and counting..._
+_07 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _06 TILs and counting..._
 
 ### GitHub
 - [Add a License to Existing Repo on GitHub](github/add-license.md)
+- [Setting Global .gitignore](github/global-ignore.md)
 
 ### Kubernetes
 - [Create a ConfigMap Automatically with kubectl](k8s/create_configmap_cli.md)
