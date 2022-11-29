@@ -5,18 +5,22 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_07 TILs and counting..._
+_08 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Ansible](#ansible)
 * [Docker](#docker)
 * [GitHub](#github)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 
 ---
+
+### Ansible
+- [Ping Pong](ansible/ping.md)
 
 ### Docker
 - [Inspecting a Container Image Locally](docker/inspect-image-locally.md)
