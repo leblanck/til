@@ -16,6 +16,7 @@ _08 TILs and counting..._
 * [GitHub](#github)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [Monitoring](#monitoring)
 
 ---
 
@@ -36,6 +37,9 @@ _08 TILs and counting..._
 
 ### Linux
 - [Edit DNS When Managed by resolvconf](linux/edit-DNS-resolvconf.md)
+
+### Monitoring
+- [Changing local Grafana Admin Password](monitoring/grafana_admin_pass.md)
 
 
 ## Other TIL Collections
