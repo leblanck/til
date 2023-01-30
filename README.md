@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_08 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _08 TILs and counting..._
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Monitoring](#monitoring)
+* [Shell](#shell)
 
 ---
 
@@ -40,6 +41,9 @@ _08 TILs and counting..._
 
 ### Monitoring
 - [Changing local Grafana Admin Password](monitoring/grafana_admin_pass.md)
+
+### Shell
+- [Viewing PATH variable in a more readable way](shell/view-path.md)
 
 
 ## Other TIL Collections
