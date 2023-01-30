@@ -17,7 +17,7 @@ After:
 ```
 ╰─ echo $PATH | tr ":" "\n"
 /opt/homebrew/bin
-/Users/n1k517117/.gem/ruby/3.0.0/bin
+/Users/k/.gem/ruby/3.0.0/bin
 /usr/local/opt/ruby/bin
 /Users/k/.local/bin
 /Users/k/.pyenv/shims
