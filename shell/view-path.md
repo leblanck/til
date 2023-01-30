@@ -2,6 +2,11 @@
 
 I had been doing some troubleshooting with items in my `$PATH` variable and was going cross-eyed tryting to parse it over and over again. This made things much easier.
 
+You can pipe the output of `echo $PATH` to translate (tr) to change all colons into newline characters:
+```
+echo $PATH | tr ":" "\n"
+```
+
 Before:
 ```
 ╰─ echo $PATH
