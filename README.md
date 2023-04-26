@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _10 TILs and counting..._
 * [Linux](#linux)
 * [Monitoring](#monitoring)
 * [Shell](#shell)
+* [VSCode](#vscode)
 
 ---
 
@@ -45,6 +46,9 @@ _10 TILs and counting..._
 ### Shell
 - [Viewing PATH variable in a more readable way](shell/view-path.md)
 
+### VSCode
+- [Create an HTML Boilerplate with Shortcuts](vscode/html-boilerplate.md)
+
 
 ## Other TIL Collections
 
@@ -54,7 +58,7 @@ _10 TILs and counting..._
 
 ## License
 
-&copy; 2022 Kyle LeBlanc
+&copy; 2023 Kyle LeBlanc
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
