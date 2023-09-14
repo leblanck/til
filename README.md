@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -14,6 +14,7 @@ _11 TILs and counting..._
 * [Ansible](#ansible)
 * [Docker](#docker)
 * [GitHub](#github)
+* [Go](#go)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Monitoring](#monitoring)
@@ -33,6 +34,9 @@ _11 TILs and counting..._
 ### GitHub
 - [Add a License to Existing Repo on GitHub](github/add-license.md)
 - [Setting Global .gitignore](github/global-ignore.md)
+
+### Go
+- [Setting Go Install Dir](go/go-install-dir.md)
 
 ### Kubernetes
 - [Create a ConfigMap Automatically with kubectl](k8s/create_configmap_cli.md)
