@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _13 TILs and counting..._
 * [Go](#go)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [macOS](#macos)
 * [Monitoring](#monitoring)
 * [Shell](#shell)
 * [VSCode](#vscode)
@@ -47,6 +48,9 @@ _13 TILs and counting..._
 
 ### Linux
 - [Edit DNS When Managed by resolvconf](linux/edit-DNS-resolvconf.md)
+
+### macOS
+- [Persistent TouchID for sudo](macos/touchid_sudo.md)
 
 ### Monitoring
 - [Changing local Grafana Admin Password](monitoring/grafana_admin_pass.md)
