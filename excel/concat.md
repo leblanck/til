@@ -1,4 +1,4 @@
-# Concatonate Strings
+# Concatenate Strings
 
 Recently needed to add a new string value to the stand and end of a value in a cell. I needed this for 350+ cells. Use the `=CONCAT` formula.  
 
