@@ -5,7 +5,7 @@
 This repo is inspired directly by [jbranchaud](https://github.com/jbranchaud/til). This is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really
 warrant a full blog post. They should all be ~200 words. This is an effort to continue [Learning In Public™](https://www.swyx.io/learn-in-public/)
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _14 TILs and counting..._
 - [Resolving Docker Task Permission Denied in Bamboo CI](docker/docker-task-permissions.md)
 
 ### Excel
+- [Concatenate Strings](excel/concat.md)
 - [Getting a Diff of Two Columns](excel/excel-diff.md)
 
 ### GitHub
